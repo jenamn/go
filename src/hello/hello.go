@@ -5,7 +5,7 @@ import "fmt"
 func findbday (x, y int) int { return x - y }
 
 func main() {
-	fmt.Printf("Hello Sexy Coach D!!\n")
+	fmt.Printf("Hello world!!\n")
         myPetType := "dog"
           fmt.Println("Breezy is my",myPetType)
         const bday string = "in October"
